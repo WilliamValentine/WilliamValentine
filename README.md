@@ -1,5 +1,4 @@
 ## Hi there 👋
-
-    Bachelor in computer science & first year PhD program @ University of North Dakota
-    Interested in statistical algorithms & machine learning (NLP/CV)
-    Avid chess player
+    First Year Doctoral Student in Machine Learning @ University of North Dakota
+    Interested in Statistical Algorithms & Natural Language Processing
+    Avid Chess Player
