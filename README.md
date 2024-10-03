@@ -1,3 +1,3 @@
 ## Hi there 👋
-    First Year Doctoral Student in Computer Science @ University of North Dakota
-    Interested in Statistical Algorithms & Natural Language Processing
+    First Year PhD Student in Computer Science @ University of North Dakota
+    Interested in Machine Learning & Quantum Computation
